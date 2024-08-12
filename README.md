@@ -13,7 +13,6 @@ This project is a console-based chess game implemented in C++. It supports all t
 1. Run the program in your preferred C++ development environment.
 2. Players will take turns entering their moves in the format specified by the game prompts.
 3. The game will display the current state of the board after each move.
-4. The game ends when one player checkmates the other.
 
 ## Setup and Compilation
 You can run the project using Visual Studio or Visual Studio Code
