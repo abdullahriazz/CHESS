@@ -1,6 +1,14 @@
 # Chess Game in C++
 
-## Overview
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [How to Play](#how-to-play)
+- [Compilation](#compilation)
+- [Errors](#errors)
+
+## Project Overview
 This project is a console-based chess game implemented in C++. It supports all the standard chess rules, including piece movements, check and checkmate detection, castling, en passant, and pawn promotion. The game is designed to be played by two players locally.
 
 ## Features
@@ -14,7 +22,7 @@ This project is a console-based chess game implemented in C++. It supports all t
 2. Players will take turns entering their moves in the format specified by the game prompts.
 3. The game will display the current state of the board after each move.
 
-## Setup and Compilation
+## Compilation
 You can run the project using Visual Studio or Visual Studio Code
 
 ## Errors
