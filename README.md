@@ -16,10 +16,7 @@ This project is a console-based chess game implemented in C++. It supports all t
 4. The game ends when one player checkmates the other.
 
 ## Setup and Compilation
-1. Ensure you have a C++ compiler installed (e.g., GCC, Clang, MSVC).
-2. Compile the program using the following command:
-   ```bash
-   g++ -o chess_game CHESS_FINAL.cpp
+You can run the project using Visual Studio or Visual Studio Code
 
 ## Errors
 1. Does not give checkmate.
